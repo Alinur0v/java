@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="4 lab">
-      <change afterPath="$PROJECT_DIR$/lab5/Lab5.java" afterDir="false" />
+    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="4-5 lab 2">
+      <change afterPath="$PROJECT_DIR$/lab6/tab1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;Alinur0v&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Alinur0v/java.git&quot;,
-    &quot;accountId&quot;: &quot;2bf3b032-dc96-4260-ad97-4d69bca9b342&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alinur0v/java.git",
+    "accountId": "709d7c63-6435-4704-a292-176286bf42b5"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -181,7 +181,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771481553697</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="4-5 lab">
+      <option name="closed" value="true" />
+      <created>1772085285221</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1772085285221</updated>
+    </task>
+    <task id="LOCAL-00012" summary="4-5 lab 2">
+      <option name="closed" value="true" />
+      <created>1772085378929</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1772085378929</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,7 +217,9 @@
     <MESSAGE value="2" />
     <MESSAGE value="3" />
     <MESSAGE value="4 lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="4 lab" />
+    <MESSAGE value="4-5 lab" />
+    <MESSAGE value="4-5 lab 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="4-5 lab 2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
