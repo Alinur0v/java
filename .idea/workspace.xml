@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="4-5 lab 2">
-      <change afterPath="$PROJECT_DIR$/lab6/tab1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/java12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/tar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +44,12 @@
     &quot;assignee&quot;: &quot;Alinur0v&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Alinur0v/java.git",
-    "accountId": "709d7c63-6435-4704-a292-176286bf42b5"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alinur0v/java.git&quot;,
+    &quot;accountId&quot;: &quot;709d7c63-6435-4704-a292-176286bf42b5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
