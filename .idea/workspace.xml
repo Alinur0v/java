@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="4-5 lab 2">
-      <change afterPath="$PROJECT_DIR$/lab7/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/java12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/tar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab7/task9.java" afterDir="false" />
+    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="lab 7">
+      <changelist_data name="Serzhan" email="alinurserzhan06@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +22,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Serzhan &lt;alinurserzhan06@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -61,38 +52,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RectangleExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Student/IdeaProjects/java&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Student/IdeaProjects/java/untitled/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Clock.executor": "Run",
+    "Application.Graphic.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.RectangleExample.executor": "Run",
+    "Application.Task1.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Task3.executor": "Run",
+    "Application.Task4.executor": "Run",
+    "Application.Task5.executor": "Run",
+    "Application.Task6.executor": "Run",
+    "Application.Task7.executor": "Run",
+    "Application.Unnamed.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Student/IdeaProjects/java",
+    "onboarding.tips.debug.path": "C:/Users/Student/IdeaProjects/java/untitled/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\IdeaProjects\java\lab8" />
       <recent name="C:\Users\Student\IdeaProjects\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\IdeaProjects\java\lab88" />
     </key>
   </component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application">
-      <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../../../../Program Files/Java/jdk-21" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="lab1" />
-      <module name="untitled" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="untitled" />
@@ -100,11 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -233,7 +222,9 @@
     <MESSAGE value="4 lab" />
     <MESSAGE value="4-5 lab" />
     <MESSAGE value="4-5 lab 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="4-5 lab 2" />
+    <MESSAGE value="lab 8" />
+    <MESSAGE value="lab 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
