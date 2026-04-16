@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="lab 8">
-      <change afterPath="$PROJECT_DIR$/lab9/tab1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tab10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tab11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tab4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tab6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tab7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tab8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tab9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab9/tap5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
+    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="lab 7">
+      <changelist_data name="Serzhan" email="alinurserzhan06@gmail.com" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,12 +35,12 @@
     &quot;assignee&quot;: &quot;Alinur0v&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Alinur0v/java.git",
-    "accountId": "e905f2ed-f7df-4e01-9d56-7468620f80c7"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Alinur0v/java.git&quot;,
+    &quot;accountId&quot;: &quot;709d7c63-6435-4704-a292-176286bf42b5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -78,15 +67,14 @@
     "Application.Task7.executor": "Run",
     "Application.Unnamed.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Student/IdeaProjects/java/lab9",
+    "last_opened_file_path": "C:/Users/Student/IdeaProjects/java",
     "onboarding.tips.debug.path": "C:/Users/Student/IdeaProjects/java/untitled/src/Main.java",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -106,11 +94,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -217,15 +200,7 @@
       <option name="project" value="LOCAL" />
       <updated>1772085378929</updated>
     </task>
-    <task id="LOCAL-00013" summary="lab 8">
-      <option name="closed" value="true" />
-      <created>1776319873501</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1776319873501</updated>
-    </task>
-    <option name="localTasksCounter" value="14" />
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,9 +222,9 @@
     <MESSAGE value="4 lab" />
     <MESSAGE value="4-5 lab" />
     <MESSAGE value="4-5 lab 2" />
-    <MESSAGE value="lab 7" />
     <MESSAGE value="lab 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 8" />
+    <MESSAGE value="lab 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
