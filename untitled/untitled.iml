@@ -4,6 +4,9 @@
     <output url="file:///production/untitled" />
     <output-test url="file:///test/untitled" />
     <exclude-output />
+    <content url="file://$MODULE_DIR$/../lab10">
+      <sourceFolder url="file://$MODULE_DIR$/../lab10" isTestSource="false" />
+    </content>
     <content url="file://$MODULE_DIR$/../lab9">
       <sourceFolder url="file://$MODULE_DIR$/../lab9" isTestSource="false" />
     </content>
