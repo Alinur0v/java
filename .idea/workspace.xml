@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="lab 7">
-      <changelist_data name="Serzhan" email="alinurserzhan06@gmail.com" />
+    <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="lab 10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,12 +34,12 @@
     &quot;assignee&quot;: &quot;Alinur0v&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Alinur0v/java.git&quot;,
-    &quot;accountId&quot;: &quot;709d7c63-6435-4704-a292-176286bf42b5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Alinur0v/java.git",
+    "accountId": "909273ea-9ab8-4430-821c-b2406e1520da"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -199,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772085378929</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lab 10">
+      <option name="closed" value="true" />
+      <created>1776924259681</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1776924259681</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,7 +243,9 @@
     <MESSAGE value="4-5 lab 2" />
     <MESSAGE value="lab 8" />
     <MESSAGE value="lab 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab 7" />
+    <MESSAGE value="lab 11" />
+    <MESSAGE value="lab 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
