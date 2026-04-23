@@ -6,28 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d4aba20-6a11-4b05-8df9-c1813bc1d33e" name="Changes" comment="lab 7">
       <changelist_data name="Serzhan" email="alinurserzhan06@gmail.com" />
-      <change afterPath="$PROJECT_DIR$/lab10/tab1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/tap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/tap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/tap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/tap4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/tap5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab10/tap6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tab9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tap2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tap3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab9/tap5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/untitled.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,31 +51,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Clock.executor": "Run",
-    "Application.Graphic.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.RectangleExample.executor": "Run",
-    "Application.Task1.executor": "Run",
-    "Application.Task2.executor": "Run",
-    "Application.Task3.executor": "Run",
-    "Application.Task4.executor": "Run",
-    "Application.Task5.executor": "Run",
-    "Application.Task6.executor": "Run",
-    "Application.Task7.executor": "Run",
-    "Application.Unnamed.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Student/IdeaProjects/java/lab10",
-    "onboarding.tips.debug.path": "C:/Users/Student/IdeaProjects/java/untitled/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Clock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Graphic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RectangleExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Student/IdeaProjects/java/lab10&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Student/IdeaProjects/java/untitled/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Student\IdeaProjects\java\lab8" />
